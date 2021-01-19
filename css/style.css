@@ -2,61 +2,49 @@
 *{
   margin:0;
 }
-
+/* header */
 header{
-    padding: 2%;
+  padding: 2%;
 }
-
 .head{
   background-color: yellow;
   width: 100%;
   height: 100px;
-
-
 }
+/* fine header */
+/* inizio corpo */
 main{
   padding: 2%;
 }
-
 .corpo{
   background-color: lime;
   width: 100%;
   height: 300px;
-    margin-bottom: 5%;
-
+  margin-bottom: 5%;
 }
-
 .sezione{
   background-color: blue;
   width: 100%;
   height:350px;
-
 }
-
 .sezione::after{
   content:"";
   display:block;
   clear:both;
 }
-
 .col-0{
   background-color:rgb(138, 229, 247) ;
   width: 100%;
   height:50px;
-
 }
-
 .col-1{
   float: left;
   background-color: rgb(138, 229, 247);
   width: 30%;
 height: 290px;
 display: inline-block;
-
 margin-top: 1%;
-
 }
-
 .col-2{
   float: left;
   background-color: rgb(138, 229, 247);
@@ -66,21 +54,19 @@ display: inline-block;
 margin: 5%;
 margin-top: 1%;
 }
-
 .col-3{
   float: left;
   background-color:rgb(138, 229, 247);
   width: 30%;
 height: 290px;
 display: inline-block;
-
 margin-top: 1%;
 }
-
+/* fine corpo */
+/* inizio footer */
 footer{
   padding: 2%;
 }
-
 .piede{
   background-color: red;
   width: 100%;
