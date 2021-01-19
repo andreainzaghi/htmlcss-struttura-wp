@@ -40,27 +40,27 @@ main{
 .col-1{
   float: left;
   background-color: rgb(138, 229, 247);
-  width: 30%;
+  width: 33%;
 height: 290px;
 display: inline-block;
-margin-top: 1%;
+margin-top: 0.5%;
 }
 .col-2{
   float: left;
   background-color: rgb(138, 229, 247);
-  width: 30%;
+  width: 33%;
 height: 290px;
 display: inline-block;
-margin: 5%;
-margin-top: 1%;
+margin: 0.5%;
+margin-top: 0.5%;
 }
 .col-3{
   float: left;
   background-color:rgb(138, 229, 247);
-  width: 30%;
+  width: 33%;
 height: 290px;
 display: inline-block;
-margin-top: 1%;
+margin-top: 0.5%;
 }
 /* fine corpo */
 /* inizio footer */
